@@ -1,0 +1,1 @@
+word_list = ["Jane", "Chris", "Eliott", "Joy", "Josiane"]
